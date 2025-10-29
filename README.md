@@ -4,6 +4,7 @@
 
 This project focuses on analyzing and visualizing sales data using Microsoft Excel.
 The goal was to clean, validate, and transform raw data, then design an interactive Sales Dashboard that provides useful business insights about sales performance across months, categories, brands, branches, and payment methods.
+![Sales Dashboard](Dashboard.png)
 
 
 ## 🧹 Data Cleaning and Preparation (Power Query)
